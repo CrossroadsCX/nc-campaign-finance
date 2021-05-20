@@ -1,0 +1,13 @@
+{
+  "name": "nc-campaign-finance",
+  "version": "0.0.0",
+  "description": "Open source tools to help work with campaign finance data in North Carolina",
+  "main": "N/A",
+  "repository": "git@github.com:crossroadscx/nc-campaign-finance.git",
+  "author": "Chris Birk <cmbirk@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
